@@ -10,7 +10,7 @@ public class Quick_Sort  {
 		System.out.println();
 	}	
 
-	static void sort(int a[],int start,int end) {
+	static void sort(int a[],int start,int end)  {
 		
 		if(start>=end) return;
 		int i = start;
