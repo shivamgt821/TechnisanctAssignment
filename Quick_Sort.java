@@ -1,6 +1,6 @@
 package com.jsp.Arrayprgms;
 
-public class Quick_Sort {
+public class Quick_Sort  {
 
 	public static void main(String[] args) {
 
